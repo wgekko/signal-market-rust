@@ -1,0 +1,18 @@
+# --- Base & UI ---
+streamlit
+pandas
+numpy
+plotly
+
+# --- Datos Financieros ---
+pandas-datareader
+yfinance
+
+# --- Machine Learning & Deep Learning ---
+scikit-learn
+tensorflow
+torch
+pyro-ppl
+
+# --- Análisis Estadístico ---
+scipy
