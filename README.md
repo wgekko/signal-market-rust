@@ -15,7 +15,10 @@ maturin build --release
 para configurar las fuentes, colores de fondos y demas 
 deben crear una carpeta  .streamlit y colocar dentro el archivo que esta en la carpeta adjunta de la carpeta streamlit
 
+para ejecutar la app deben correr desde la terminal dentro de la carpeta de la app el comando 
+streamlit run main.py
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
 Donde el Código se encuentra con los Mercados: Mi nueva "Quant Station" (Python + Rust)
 ¿Qué pasa cuando combinas la agilidad de Python con la potencia bruta de Rust para el análisis financiero? El resultado es una herramienta de grado institucional que acabo de desarrollar.
 
