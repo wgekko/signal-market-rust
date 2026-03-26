@@ -47,3 +47,22 @@ Este proyecto nació de la necesidad de tener herramientas que no se "congelen" 
 
 video demo 
 
+
+
+https://github.com/user-attachments/assets/ca7353f2-b087-4242-87e7-4d5c2407d6ea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
